@@ -1,3 +1,5 @@
+@layer reset, base, theme, components;
+
 @layer reset {
   *,
   ::before,
